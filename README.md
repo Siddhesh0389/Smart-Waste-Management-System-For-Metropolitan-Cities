@@ -1,14 +1,6 @@
 # 🗑️ Smart Waste Management System
 
-> A full-stack IoT-simulated waste management dashboard for metropolitan cities — real-time bin monitoring, alert management, route optimization, and AI-powered fill forecasting.
-
----
-
-## 📸 Demo
-
-[![Video Demo](https://img.shields.io/badge/▶%20Watch%20Demo-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_DEMO_LINK_HERE)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-black?style=for-the-badge&logo=github)](YOUR_GITHUB_LINK_HERE)
+> A full-stack IoT-simulated waste management dashboard. Garbage bins across a city report fill level and weight; the system raises alerts, charts trends, optimizes truck routes, and forecasts when bins will fill up — all using realistic simulated sensor data, built so real hardware can be plugged in later with minimal changes.
 
 ---
 
@@ -228,6 +220,8 @@ curl -X POST http://127.0.0.1:5000/api/sensor-data \
 
 **Siddhesh D. Patil**
 
+[![Video Demo](https://img.shields.io/badge/▶%20Watch%20Demo-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_DEMO_LINK_HERE)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)]([YOUR_GITHUB_LINK_HERE](https://github.com/Siddhesh0389/Smart-Waste-Management-System-For-Metropolitan-Cities))
 
 ---
